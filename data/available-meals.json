@@ -1,0 +1,58 @@
+[
+  {
+    "id": "m1",
+    "name": "Carne",
+    "price": "900",
+    "description": "Empanada rellena con carne de res, condimentada con especias tradicionales y cebolla.",
+    "image": "images/empanada.jpg"
+  },
+  {
+    "id": "m2",
+    "name": "Pollo",
+    "price": "900",
+    "description": "Relleno de pollo desmenuzado, cebolla, especias y un toque de sabor casero, envuelto en una masa dorada.",
+    "image": "images/empanada.jpg"
+  },
+  {
+    "id": "m3",
+    "name": "Jamon y Queso",
+    "price": "800",
+    "description": "Empanada con una mezcla suave de jamón y queso, perfecta para quienes buscan una opción sencilla y deliciosa.",
+    "image": "images/empanada.jpg"
+  },
+  {
+    "id": "m4",
+    "name": "Choclo",
+    "price": "800",
+    "description": "Relleno cremoso de maíz, con un toque de queso y condimentos suaves.",
+    "image": "images/empanada.jpg"
+  },
+  {
+    "id": "m5",
+    "name": "Albahaca, Tomate y Queso",
+    "price": "1000",
+    "description": "Un relleno fresco con tomate, albahaca y queso, ofreciendo un sabor ligero y fresco.",
+    "image": "images/empanada.jpg"
+  },
+  {
+    "id": "m6",
+    "name": "Panceta y Ciruela",
+    "price": "1000",
+    "description": "Relleno agridulce con panceta y ciruelas, combinando lo salado de la panceta con el toque dulce de la fruta.",
+    "image": "images/empanada.jpg"
+  },
+  {
+    "id": "m7",
+    "name": "Atun y huevo",
+    "price": "1000",
+    "description": "Una combinación clásica de atún y huevo, con un toque suave de condimentos. Una opción sabrosa y ligera.",
+    "image": "images/empanada.jpg"
+  },
+  {
+    "id": "m8",
+    "name": "Bondiola y Barbacoa",
+    "price": "900",
+    "description": "Empanada rellena con bondiola de cerdo desmenuzada, bañada en salsa barbacoa. Sabor ahumado y jugoso.",
+    "image": "images/empanada.jpg"
+  }
+]
